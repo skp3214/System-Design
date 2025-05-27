@@ -7,3 +7,4 @@
 ### [Lecture 4: Class and Sequence Diagram in UML Diagrams](/system-design/4/4.md)
 ### [Lecture 5: SOLID Design Principles - Part 1](/system-design/5/5.md)
 ### [Lecture 6: SOLID Design Principles - Part 2](/system-design/6/6.md)
+### [Lecture 7: Document Editor LLD - Project 1](/system-design/7/7.md)

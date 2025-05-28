@@ -9,3 +9,4 @@
 ### [Lecture 6: SOLID Design Principles - Part 2](/system-design/6/6.md)
 ### [Lecture 7: Document Editor LLD - Project 1](/system-design/7/7.md)
 ### [Lecture 8: Design Pattern in LLD - Strategy Design Pattern](/system-design/8/8.md)
+### [Lecture 9: Design Pattern in LLD - Factory Design Pattern](/system-design/9/9.md)

@@ -18,3 +18,4 @@
 ### [Lecture 15: Design Pattern in LLD - Command Design Pattern](/system-design/15/15.md)
 ### [Lecture 16: Design Pattern in LLD - Adapter Design Pattern](/system-design/16/16.md)
 ### [Lecture 17: Design Pattern in LLD - Facade Design Pattern](/system-design/17/17.md)
+### [Lecture 18: Music Player App LLD - Project 2](https://github.com/skp3214/SpotifyLite.git)

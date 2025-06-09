@@ -16,3 +16,4 @@
 ### [Lecture 13: Design Pattern in LLD - Decorator Design Pattern](/system-design/13/13.md)
 ### [Lecture 14: LLD of Notification System](/system-design/14/14.md)
 ### [Lecture 15: Design Pattern in LLD - Command Design Pattern](/system-design/15/15.md)
+### [Lecture 16: Design Pattern in LLD - Adapter Design Pattern](/system-design/16/16.md)

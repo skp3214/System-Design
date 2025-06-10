@@ -21,3 +21,4 @@
 ### [Lecture 18: Music Player App LLD - Project 2](https://github.com/skp3214/SpotifyLite.git)
 ### [Lecture 19: Design Pattern in LLD - Composite Design Pattern](/system-design/19/19.md)
 ### [Lecture 20: Design Pattern in LLD - Template Method Design Pattern](/system-design/20/20.md)
+### [Lecture 21: Design Pattern in LLD - Proxy Design Pattern](/system-design/21/21.md)

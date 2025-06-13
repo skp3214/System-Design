@@ -24,3 +24,4 @@
 ### [Lecture 21: Design Pattern in LLD - Proxy Design Pattern](/system-design/21/21.md)
 ### [Lecture 22: Design Pattern in LLD - Chain Of Responsibility Design Pattern](/system-design/22/22.md)
 ### [Lecture 23: Payment Gateway LLD](/system-design/23/23.md)
+### [Lecture 24: Discount Coupon Engine LLD](/system-design/24/24.md)

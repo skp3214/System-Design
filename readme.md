@@ -26,3 +26,4 @@
 ### [Lecture 23: Payment Gateway LLD](/system-design/23/23.md)
 ### [Lecture 24: Discount Coupon Engine LLD](/system-design/24/24.md)
 ### [Lecture 25: Design Pattern in LLD - Bridge Design Pattern](/system-design/25/25.md)
+### [Lecture 26: Zepto Clone - Inventory Management LLD - Project 3](https://github.com/skp3214/ZeptoLite.git)

@@ -30,3 +30,4 @@
 ### [Lecture 27: Tinder Clone - Dating App LLD - Project 4](https://github.com/skp3214/TinderLite-DatingApp-LLD-Project.git)
 ### [Lecture 28: Design Pattern in LLD - Builder Design Pattern](/system-design/28/28.md)
 ### [Lecture 29: Design Pattern in LLD - Iterator Design Pattern](/system-design/29/29.md)
+### [Lecture 30: Design Pattern in LLD - Flyweight Design Pattern](/system-design/30/30.md)

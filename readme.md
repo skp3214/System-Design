@@ -31,3 +31,4 @@
 ### [Lecture 28: Design Pattern in LLD - Builder Design Pattern](/system-design/28/28.md)
 ### [Lecture 29: Design Pattern in LLD - Iterator Design Pattern](/system-design/29/29.md)
 ### [Lecture 30: Design Pattern in LLD - Flyweight Design Pattern](/system-design/30/30.md)
+### [Lecture 31: SplitWise Clone - Expense Splitting App - LLD - Project 5](https://github.com/skp3214/SplitWiseClone-ExpenseSplittingApp-LLD-Project)

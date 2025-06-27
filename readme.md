@@ -33,3 +33,4 @@
 ### [Lecture 30: Design Pattern in LLD - Flyweight Design Pattern](/system-design/30/30.md)
 ### [Lecture 31: SplitWise Clone - Expense Splitting App - LLD - Project 5](https://github.com/skp3214/SplitWiseClone-ExpenseSplittingApp-LLD-Project)
 ### [Lecture 32: Design Pattern in LLD - State Design Pattern](/system-design/32/32.md)
+### [Lecture 33: Tic Tac Toe Game LLD - Project 6](https://github.com/skp3214/TicTacToe-LLD-Project.git)

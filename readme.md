@@ -36,3 +36,4 @@
 ### [Lecture 33: Tic Tac Toe Game LLD - Project 6](https://github.com/skp3214/TicTacToe-LLD-Project.git)
 ### [Lecture 34: Snake And Ladder Game LLD - Project 7](https://github.com/skp3214/SnakeAndLadder-LLD-Project.git)
 ### [Lecture 35: Design Pattern in LLD-  Mediator Design Pattern](/system-design/35/35.md)
+### [Lecture 36: Design Pattern in LLD - Prototype Design Pattern](/system-design/36/36.md)

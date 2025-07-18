@@ -40,3 +40,4 @@
 ### [Lecture 37: Chess Game - LLD - Project 8](https://github.com/skp3214/ChessGame-LLD-Project.git)
 ### [Lecture 38: Design Pattern in LLD - Visitor Design Pattern](/system-design/38/38.md)
 ### [Lecture 39: Design Pattern in LLD - Memento Design Pattern](/system-design/39/39.md)
+### [Lecture 40: Wrapping Up with LLD:  Null Object Pattern and Anti-Patterns](/system-design/40/40.md)
